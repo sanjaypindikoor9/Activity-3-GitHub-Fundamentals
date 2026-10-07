@@ -1,1 +1,1 @@
-# Activity-3-GitHub-Fundamentals
+Hi, I’m P Sanjay, a 3rd Semester B.Tech Computer Science and Engineering student. I am interested in Artificial Intelligence and Machine Learning and I am developing my programming skills in Python, C++, SQL, and databases. This repository is created as part of my Portfolio Building course to practice GitHub repositories, commits, version control, and professional portfolio development.
